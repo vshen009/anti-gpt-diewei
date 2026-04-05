@@ -2,6 +2,9 @@
 
 > 让 AI 说话像个正常人，而不是你爹。
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Stars](https://img.shields.io/github/stars/vshen009/anti-gpt-diewei?style=social)](https://github.com/vshen009/anti-gpt-diewei)
+
 ## 症状自测
 
 如果你用 AI 时经常感到脚趾抠地，出现以下症状：
